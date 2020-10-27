@@ -1,0 +1,58 @@
+body {
+  background-color: #323232;
+  color: #FFFFFF;
+  font-family: 'Changa', sans-serif;
+}
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #e459e0;
+}
+
+a:hover {
+  color: #eda1eb
+}
+
+p {
+  width: 45%;
+}
+
+.side-bar {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+}
+
+.top-bar {
+  margin: 0 auto;
+  padding: 0;
+  float: inherit;
+  display: table;
+}
+
+li a:hover {
+  background-color: #323232;
+  padding: 5px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  display: inline;
+  float: left;
+  background-color: #000000;
+  overflow: hidden;
+  text-align: center;
+
+}
+
+.aqal {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
